@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UniversalFileReader">
+</Property><Property Name="Solution File" Value="C:\Users\ADMIN\Downloads\UniversalFileReader\UniversalFileReader.sln">
+</Property><Property Name="Date" Value="19 April 2016">
+</Property><Property Name="Time" Value="23:52">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="UniversalFileReader.sln" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\UniversalFileReader.sln">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\UniversalFileReader.csproj" Description="Project file successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\UniversalFileReader.csproj">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\UniversalFileReader.csproj.user" Description="Project user file successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\UniversalFileReader.csproj.user">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\Form1.cs" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\Form1.cs">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\Form1.Designer.cs" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\login.cs" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\login.cs">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\login.Designer.cs" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\login.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\frmMain.cs" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\frmMain.Designer.cs" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\Form2.cs" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\Form2.cs">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\Form2.Designer.cs" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\PrintEngine.cs" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\PrintEngine.cs">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\process.cs" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\process.cs">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\Program.cs" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\Program.cs">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\Properties\Settings.settings" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\app.config" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\app.config">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\Properties\app.manifest" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\Resources\globalfilereader copy.png" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\Resources\globalfilereader copy.png">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\ufr_logo.png" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\ufr_logo.png">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\oie_transparent.png" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\oie_transparent.png">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\EP1.jpg" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\EP1.jpg">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\Form1.resx" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\Form1.resx">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\frmMain.resx" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\Form2.resx" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\Form2.resx">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\login.resx" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\login.resx">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\Properties\Resources.resx" Description="File successfully backed up as C:\Users\ADMIN\Downloads\UniversalFileReader\Backup\trial\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="UniversalFileReader" Source="trial\UniversalFileReader.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="UniversalFileReader" Source="trial\UniversalFileReader.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="UniversalFileReader.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="UniversalFileReader.sln" Description="Converted">
+</Event></UpgradeLog>

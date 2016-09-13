@@ -1,0 +1,291 @@
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\ConfigurationSetup.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\lucene-core-2.0.0.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\lucene-demos-2.0.0.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Interop.VBIDE.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Interop.AMovie.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\ResolveAssemblyReference.cache
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\Interop.AMovie.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\Global File Reader.csproj.ResolveComReference.cache
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\GlobalFileReader.frmMain.resources
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\GlobalFileReader.Form2.resources
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\GlobalFileReader.Properties.Resources.resources
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\Global File Reader.csproj.GenerateResource.Cache
+D:\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\Interop.AMovie.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\Global File Reader.csproj.ResolveComReference.cache
+D:\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\trial.exe
+D:\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\trial.pdb
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\trial.exe
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\trial.pdb
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\bcmail-jdk14-132.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\bcprov-jdk14-132.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\ConfigurationSetup.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\FontBox-0.1.0-dev.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\IKVM.GNU.Classpath.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\IKVM.Runtime.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Interop.Office.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Interop.Word.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\PDFBox-0.7.3.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\lucene-core-2.0.0.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\office.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\lucene-demos-2.0.0.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Interop.VBIDE.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\office.xml
+D:\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Interop.AMovie.dll
+D:\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\GlobalFileReader.frmMain.resources
+D:\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\GlobalFileReader.Form2.resources
+D:\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\GlobalFileReader.Properties.Resources.resources
+D:\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\Global File Reader.csproj.GenerateResource.Cache
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\office.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Microsoft.Vbe.Interop.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\office.xml
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\Interop.Microsoft.Office.Interop.Graph.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\Interop.VBIDE.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Interop.Microsoft.Office.Interop.Graph.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Global File Reader.exe.config
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Global File Reader.exe.manifest
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Global File Reader.application
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Global File Reader.exe
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\bin\Debug\Global File Reader.pdb
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\Global File Reader.TrustInfo.xml
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\Global File Reader.exe.manifest
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\Global File Reader.application
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\Global File Reader.exe
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Debug\Global File Reader.pdb
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\bin\Debug\Global File Reader.exe.config
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\Interop.AMovie.dll
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\Interop.Microsoft.Office.Interop.Graph.dll
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\Global File Reader.csproj.ResolveComReference.cache
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\Global File Reader.exe
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\Global File Reader.pdb
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\bin\Debug\Global File Reader.exe.manifest
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\bin\Debug\Global File Reader.application
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\bin\Debug\Global File Reader.exe
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\bin\Debug\Global File Reader.pdb
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\bin\Debug\lucene-core-2.0.0.dll
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\bin\Debug\office.dll
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\bin\Debug\lucene-demos-2.0.0.dll
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\bin\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\bin\Debug\office.xml
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\bin\Debug\Interop.AMovie.dll
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\bin\Debug\Interop.Microsoft.Office.Interop.Graph.dll
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\bin\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\GlobalFileReader.frmMain.resources
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\GlobalFileReader.Form2.resources
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\GlobalFileReader.Properties.Resources.resources
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\Global File Reader.csproj.GenerateResource.Cache
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\Global File Reader.TrustInfo.xml
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\Global File Reader.exe.manifest
+C:\Documents and Settings\cg\My Documents\p\Global File Reader\trial working\trial\obj\Debug\Global File Reader.application
+D:\projects\Global File Reader\trial working\trial\bin\Debug\Global File Reader.exe.config
+D:\projects\Global File Reader\trial working\trial\obj\Debug\Interop.AMovie.dll
+D:\projects\Global File Reader\trial working\trial\obj\Debug\Global File Reader.csproj.ResolveComReference.cache
+D:\projects\Global File Reader\trial working\trial\obj\Debug\Global File Reader.exe
+D:\projects\Global File Reader\trial working\trial\obj\Debug\Global File Reader.pdb
+D:\projects\Global File Reader\trial working\trial\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\Global File Reader\trial working\trial\obj\Debug\GlobalFileReader.frmMain.resources
+D:\projects\Global File Reader\trial working\trial\obj\Debug\GlobalFileReader.Form2.resources
+D:\projects\Global File Reader\trial working\trial\obj\Debug\GlobalFileReader.Properties.Resources.resources
+D:\projects\Global File Reader\trial working\trial\obj\Debug\Global File Reader.csproj.GenerateResource.Cache
+D:\projects\Global File Reader\trial working\trial\obj\Debug\Interop.Microsoft.Office.Interop.Graph.dll
+D:\projects\Global File Reader\trial working\trial\obj\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+D:\projects\Global File Reader\trial working\trial\obj\Debug\Interop.VBIDE.dll
+D:\projects\Global File Reader\trial working\trial\bin\Debug\Global File Reader.exe.manifest
+D:\projects\Global File Reader\trial working\trial\bin\Debug\Global File Reader.application
+D:\projects\Global File Reader\trial working\trial\bin\Debug\Global File Reader.exe
+D:\projects\Global File Reader\trial working\trial\bin\Debug\Global File Reader.pdb
+D:\projects\Global File Reader\trial working\trial\bin\Debug\lucene-core-2.0.0.dll
+D:\projects\Global File Reader\trial working\trial\bin\Debug\office.dll
+D:\projects\Global File Reader\trial working\trial\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\projects\Global File Reader\trial working\trial\bin\Debug\lucene-demos-2.0.0.dll
+D:\projects\Global File Reader\trial working\trial\bin\Debug\Interop.VBIDE.dll
+D:\projects\Global File Reader\trial working\trial\bin\Debug\office.xml
+D:\projects\Global File Reader\trial working\trial\bin\Debug\Interop.AMovie.dll
+D:\projects\Global File Reader\trial working\trial\bin\Debug\Interop.Microsoft.Office.Interop.Graph.dll
+D:\projects\Global File Reader\trial working\trial\bin\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+D:\projects\Global File Reader\trial working\trial\obj\Debug\Global File Reader.TrustInfo.xml
+D:\projects\Global File Reader\trial working\trial\obj\Debug\Global File Reader.exe.manifest
+D:\projects\Global File Reader\trial working\trial\obj\Debug\Global File Reader.application
+D:\projects\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.exe.config
+D:\projects\Global File Reader1\trial working\trial\obj\Debug\Interop.AMovie.dll
+D:\projects\Global File Reader1\trial working\trial\obj\Debug\Interop.Microsoft.Office.Interop.Graph.dll
+D:\projects\Global File Reader1\trial working\trial\obj\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+D:\projects\Global File Reader1\trial working\trial\obj\Debug\Interop.VBIDE.dll
+D:\projects\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.csproj.ResolveComReference.cache
+D:\projects\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.exe
+D:\projects\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.pdb
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.exe.config
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\Interop.AMovie.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\Interop.Microsoft.Office.Interop.Graph.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\Interop.VBIDE.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.csproj.ResolveComReference.cache
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.exe
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.pdb
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\GlobalFileReader.frmMain.resources
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\GlobalFileReader.Form2.resources
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\GlobalFileReader.Properties.Resources.resources
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.csproj.GenerateResource.Cache
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.exe.manifest
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.application
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.exe
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.pdb
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\bin\Debug\lucene-core-2.0.0.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\bin\Debug\office.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\bin\Debug\lucene-demos-2.0.0.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\bin\Debug\Interop.VBIDE.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\bin\Debug\office.xml
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\bin\Debug\Interop.AMovie.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\bin\Debug\Interop.Microsoft.Office.Interop.Graph.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\bin\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.TrustInfo.xml
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.exe.manifest
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.application
+F:\final yr project\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.exe.config
+F:\final yr project\Global File Reader1\trial working\trial\obj\Debug\Interop.AMovie.dll
+F:\final yr project\Global File Reader1\trial working\trial\obj\Debug\Interop.Microsoft.Office.Interop.Graph.dll
+F:\final yr project\Global File Reader1\trial working\trial\obj\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+F:\final yr project\Global File Reader1\trial working\trial\obj\Debug\Interop.VBIDE.dll
+F:\final yr project\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.csproj.ResolveComReference.cache
+F:\final yr project\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.exe
+F:\final yr project\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.pdb
+D:\Running\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.exe.config
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\Interop.AMovie.dll
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.csproj.ResolveComReference.cache
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.exe
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.pdb
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\ResolveAssemblyReference.cache
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\GlobalFileReader.frmMain.resources
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\GlobalFileReader.Form2.resources
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\GlobalFileReader.Properties.Resources.resources
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.csproj.GenerateResource.Cache
+D:\Running\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.exe.manifest
+D:\Running\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.application
+D:\Running\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.exe
+D:\Running\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.pdb
+D:\Running\Global File Reader1\trial working\trial\bin\Debug\lucene-core-2.0.0.dll
+D:\Running\Global File Reader1\trial working\trial\bin\Debug\office.dll
+D:\Running\Global File Reader1\trial working\trial\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Running\Global File Reader1\trial working\trial\bin\Debug\lucene-demos-2.0.0.dll
+D:\Running\Global File Reader1\trial working\trial\bin\Debug\Interop.VBIDE.dll
+D:\Running\Global File Reader1\trial working\trial\bin\Debug\office.xml
+D:\Running\Global File Reader1\trial working\trial\bin\Debug\Interop.AMovie.dll
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.TrustInfo.xml
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.exe.manifest
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.application
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\Interop.Microsoft.Office.Interop.Graph.dll
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+D:\Running\Global File Reader1\trial working\trial\obj\Debug\Interop.VBIDE.dll
+D:\Running\Global File Reader1\trial working\trial\bin\Debug\Interop.Microsoft.Office.Interop.Graph.dll
+D:\Running\Global File Reader1\trial working\trial\bin\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.exe.config
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.exe.manifest
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.application
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.exe
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\bin\Debug\Global File Reader.pdb
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.csproj.ResolveComReference.cache
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\obj\Debug\GlobalFileReader.Form1.resources
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\obj\Debug\GlobalFileReader.frmMain.resources
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\obj\Debug\GlobalFileReader.Form2.resources
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\obj\Debug\GlobalFileReader.Properties.Resources.resources
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.csproj.GenerateResource.Cache
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.TrustInfo.xml
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.exe.manifest
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.application
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.exe
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.pdb
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\bin\Debug\Interop.Microsoft.Office.Core.dll
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\obj\Debug\Global File Reader.csprojResolveAssemblyReference.cache
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\bin\Debug\FileBrowser.dll
+F:\personal\sanket\projects\Global File Reader1\trial working\trial\bin\Debug\FileBrowser.pdb
+C:\Users\gholap\Desktop\trial working\trial\bin\Debug\Global File Reader.exe.config
+C:\Users\gholap\Desktop\trial working\trial\obj\Debug\Global File Reader.csproj.ResolveComReference.cache
+C:\Users\gholap\Desktop\trial working\trial\obj\Debug\Global File Reader.exe
+C:\Users\gholap\Desktop\trial working\trial\obj\Debug\Global File Reader.pdb
+C:\Users\gholap\Desktop\trial working\trial\obj\Debug\Global File Reader.csprojResolveAssemblyReference.cache
+C:\Users\gholap\Desktop\trial working\trial\obj\Debug\GlobalFileReader.Form1.resources
+C:\Users\gholap\Desktop\trial working\trial\obj\Debug\GlobalFileReader.frmMain.resources
+C:\Users\gholap\Desktop\trial working\trial\obj\Debug\GlobalFileReader.Form2.resources
+C:\Users\gholap\Desktop\trial working\trial\obj\Debug\GlobalFileReader.Properties.Resources.resources
+C:\Users\gholap\Desktop\trial working\trial\obj\Debug\Global File Reader.csproj.GenerateResource.Cache
+C:\Users\gholap\Desktop\trial working\trial\bin\Debug\Global File Reader.exe.manifest
+C:\Users\gholap\Desktop\trial working\trial\bin\Debug\Global File Reader.application
+C:\Users\gholap\Desktop\trial working\trial\bin\Debug\Global File Reader.exe
+C:\Users\gholap\Desktop\trial working\trial\bin\Debug\Global File Reader.pdb
+C:\Users\gholap\Desktop\trial working\trial\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\gholap\Desktop\trial working\trial\bin\Debug\FileBrowser.pdb
+C:\Users\gholap\Desktop\trial working\trial\obj\Debug\Global File Reader.TrustInfo.xml
+C:\Users\gholap\Desktop\trial working\trial\obj\Debug\Global File Reader.exe.manifest
+C:\Users\gholap\Desktop\trial working\trial\obj\Debug\Global File Reader.application
+H:\trial working Browserand image zoomandloagin page11\trial\bin\Debug\Global File Reader.exe.config
+H:\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.csproj.ResolveComReference.cache
+H:\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.exe
+H:\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.pdb
+H:\trial working Browserand image zoomandloagin page11\trial\bin\Debug\Global File Reader.exe.manifest
+H:\trial working Browserand image zoomandloagin page11\trial\bin\Debug\Global File Reader.application
+H:\trial working Browserand image zoomandloagin page11\trial\bin\Debug\Global File Reader.exe
+H:\trial working Browserand image zoomandloagin page11\trial\bin\Debug\Global File Reader.pdb
+H:\trial working Browserand image zoomandloagin page11\trial\bin\Debug\Interop.Microsoft.Office.Core.dll
+H:\trial working Browserand image zoomandloagin page11\trial\bin\Debug\FileBrowser.pdb
+H:\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.csprojResolveAssemblyReference.cache
+H:\trial working Browserand image zoomandloagin page11\trial\obj\Debug\GlobalFileReader.Form1.resources
+H:\trial working Browserand image zoomandloagin page11\trial\obj\Debug\GlobalFileReader.frmMain.resources
+H:\trial working Browserand image zoomandloagin page11\trial\obj\Debug\GlobalFileReader.Form2.resources
+H:\trial working Browserand image zoomandloagin page11\trial\obj\Debug\GlobalFileReader.Properties.Resources.resources
+H:\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.csproj.GenerateResource.Cache
+H:\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.TrustInfo.xml
+H:\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.exe.manifest
+H:\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.application
+H:\trial working Browserand image zoomandloagin page11\trial\obj\Debug\GlobalFileReader.Login.resources
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\bin\Debug\Global File Reader.exe.config
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.csproj.ResolveComReference.cache
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.exe
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.pdb
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.csprojResolveAssemblyReference.cache
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\obj\Debug\GlobalFileReader.Form1.resources
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\obj\Debug\GlobalFileReader.frmMain.resources
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\obj\Debug\GlobalFileReader.Form2.resources
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\obj\Debug\GlobalFileReader.Login.resources
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\obj\Debug\GlobalFileReader.Properties.Resources.resources
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.csproj.GenerateResource.Cache
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\bin\Debug\Global File Reader.exe.manifest
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\bin\Debug\Global File Reader.application
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\bin\Debug\Global File Reader.exe
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\bin\Debug\Global File Reader.pdb
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\bin\Debug\Interop.Microsoft.Office.Core.dll
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\bin\Debug\FileBrowser.pdb
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.TrustInfo.xml
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.exe.manifest
+F:\personal\sanket\projects\Global File Reader1\trial working Browserand image zoomandloagin page11\trial\obj\Debug\Global File Reader.application
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\bin\Debug\Global File Reader.exe.config
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\Global File Reader.csproj.ResolveComReference.cache
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\Global File Reader.exe
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\Global File Reader.pdb
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\bin\Debug\Global File Reader.exe.manifest
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\bin\Debug\Global File Reader.application
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\bin\Debug\Global File Reader.exe
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\bin\Debug\Global File Reader.pdb
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\bin\Debug\Interop.Microsoft.Office.Core.dll
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\bin\Debug\FileBrowser.pdb
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\Global File Reader.csprojResolveAssemblyReference.cache
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\GlobalFileReader.Form1.resources
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\GlobalFileReader.frmMain.resources
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\GlobalFileReader.Form2.resources
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\GlobalFileReader.Login.resources
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\GlobalFileReader.Properties.Resources.resources
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\Global File Reader.csproj.GenerateResource.Cache
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\Global File Reader.TrustInfo.xml
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\Global File Reader.exe.manifest
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\Global File Reader.application

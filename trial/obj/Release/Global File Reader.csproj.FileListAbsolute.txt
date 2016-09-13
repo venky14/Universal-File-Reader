@@ -1,0 +1,20 @@
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Release\ResolveAssemblyReference.cache
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Release\Interop.AMovie.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Release\Interop.Microsoft.Office.Interop.Graph.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Release\Interop.Microsoft.Office.Interop.PowerPoint.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Release\Interop.VBIDE.dll
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Release\Global File Reader.csproj.ResolveComReference.cache
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Release\GlobalFileReader.frmMain.resources
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Release\GlobalFileReader.Form2.resources
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Release\GlobalFileReader.Properties.Resources.resources
+H:\Kalpesh\Projects\in complete\Global File Reader\trial working\trial\obj\Release\Global File Reader.csproj.GenerateResource.Cache
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Release\ResolveAssemblyReference.cache
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Release\Interop.AMovie.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Release\Interop.Microsoft.Office.Interop.Graph.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Release\Interop.Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Release\Interop.VBIDE.dll
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Release\Global File Reader.csproj.ResolveComReference.cache
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Release\GlobalFileReader.frmMain.resources
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Release\GlobalFileReader.Form2.resources
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Release\GlobalFileReader.Properties.Resources.resources
+C:\Users\vinod\Desktop\Global File Reader1\trial working\trial\obj\Release\Global File Reader.csproj.GenerateResource.Cache

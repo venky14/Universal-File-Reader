@@ -1,0 +1,24 @@
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\bin\Debug\Global File Reader.exe.config
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\bin\Debug\Global File Reader.exe.manifest
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\bin\Debug\Global File Reader.application
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\bin\Debug\Global File Reader.exe
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\bin\Debug\Global File Reader.pdb
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\bin\Debug\Interop.Microsoft.Office.Core.dll
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\bin\Debug\FileBrowser.pdb
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\UniversalFileReader.csproj.ResolveComReference.cache
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\GlobalFileReader.Form1.resources
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\GlobalFileReader.frmMain.resources
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\GlobalFileReader.Form2.resources
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\GlobalFileReader.Login.resources
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\GlobalFileReader.Properties.Resources.resources
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\UniversalFileReader.csproj.GenerateResource.Cache
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\Global File Reader.TrustInfo.xml
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\Global File Reader.exe.manifest
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\Global File Reader.application
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\Global File Reader.exe
+F:\personal\sanket\projects\Global File Reader1\UniversalFileReader\trial\obj\Debug\Global File Reader.pdb
+C:\Users\ADMIN\Downloads\UniversalFileReader\trial\bin\Debug\Global File Reader.exe.config
+C:\Users\ADMIN\Downloads\UniversalFileReader\trial\obj\Debug\UniversalFileReader.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Downloads\UniversalFileReader\trial\obj\Debug\Global File Reader.exe
+C:\Users\ADMIN\Downloads\UniversalFileReader\trial\obj\Debug\Global File Reader.pdb
+C:\Users\ADMIN\Downloads\UniversalFileReader\trial\obj\Debug\UniversalFileReader.csprojResolveAssemblyReference.cache
