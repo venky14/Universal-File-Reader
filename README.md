@@ -59,3 +59,7 @@ https://cloud.githubusercontent.com/assets/5331066/25910414/e42482c4-35cd-11e7-9
 The current application will only allow user to view the documents, it does
 not allow creation or edition of any document. The enhancement to this project will be
 incorporating those functionalities.
+
+## Application Installer
+You can run Universal File Reader locally as a desktop application(.exe), by following installation guide of Visual Studio 2015
+https://msdn.microsoft.com/en-us/library/e2h7fzkw.aspx
