@@ -40,3 +40,22 @@ https://cloud.githubusercontent.com/assets/5331066/25910410/e17c82c4-35cd-11e7-9
 
 10. Video File
 https://cloud.githubusercontent.com/assets/5331066/25910414/e42482c4-35cd-11e7-92c3-08580204e68a.jpg
+
+
+## Usage And Benefits
+### Benefits
+ No Separate installation of different application
+ Less Hard disk space utilization
+ Less cost
+ Not too many windows in taskbar as it supports tabbed feature
+ Multiple applications or features under one single Roof
+
+### Key Features
+ Can open multiple files simultaneously without closing other
+ Tabbed feature
+ Multiple file format support
+
+### Future Enhancement
+The current application will only allow user to view the documents, it does
+not allow creation or edition of any document. The enhancement to this project will be
+incorporating those functionalities.
