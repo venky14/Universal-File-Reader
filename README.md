@@ -1,7 +1,7 @@
-# Universal-File-Reader
-## Purpose of the project
+# Universal File Reader
+## Introduction and Purpose
 
-Windows Application which reads different file formats.
+#### It's a Windows Application which reads different file formats.
 
 Universal File Reader, as the name suggest can be used to view all different types of
 documents ranging from a Text file to HTML file, a Word file to PDF file and Multimedia file etc.
